@@ -10,8 +10,10 @@
 ![layout](pcb/layout/layout.png)
 
 ### Board Photos
-<img src="pcb/pcb_photos/pcb1.jpeg" width="600" />
-<img src="pcb/pcb_photos/pcb1.1.jpeg" width="600" />
+<div style="display:flex; gap:16px; align-items:flex-start; flex-wrap:wrap;">
+  <img src="pcb/pcb_photos/pcb1.jpeg" style="width:48%; min-width:280px;" />
+  <img src="pcb/pcb_photos/pcb1.1.jpeg" style="width:48%; min-width:280px;" />
+</div>
 
 ## Resume
 - [Isaac_Tourner_WindBorne_Resume.pdf](resume/Isaac_Tourner_WindBorne_Resume.pdf)
