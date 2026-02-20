@@ -7,7 +7,6 @@
 **Elegant feature:** I intentionally partitioned the design into modular blocks (power, DIO/level shifting, motor/encoder, and analog acquisition) with clear connectors and bring-up hooks (test points + jumpers). That made it easy to populate only what was needed for a given build and iterate quickly without changing the core PCB.
 
 ### Schematic
-[schematic hierarchy](pcb/schematic/)
 - [Root](pcb/schematic/Root.png)
   - [RPi](pcb/schematic/RPi.png)
   - [Power](pcb/schematic/Power.png)
